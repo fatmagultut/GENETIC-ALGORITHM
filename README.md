@@ -7,3 +7,6 @@ Our presentation on Genetic Algorithm
 - HOW DOES IT WORK? 
 - EXAMPLE 
 - COMPLEXITY
+
+## Slides
+- [Here](./GeneticAlgorithm.pdf)
